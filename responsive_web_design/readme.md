@@ -6,7 +6,7 @@
 
 >Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
 ---
-### 🐈‍⬛Photo cat app
+### 🐈‍⬛[Photo cat app](01_photo_cat_app)
 > HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.
 > In this course, you'll learn the most common HTML tags by building your own cat photo app.
 - aprendi várias tags HTML
@@ -28,3 +28,9 @@
 ### 📄Registration form
 >You can use HTML forms to collect information from people who visit your webpage.
 >In this course, you'll learn HTML forms by building a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page.
+- entendi melhor como funciona as classes no html, também o id, name, for e value
+
+### 🔎Survey Form
+>This is one of the required projects to earn your certification.
+>For this project, you will build a survey form to collect data from your users.
+- coloquei em prática os conhecimentos ensinados nos 4 projetos anteriores, me ajudou a fixar melhor as propriedades css e pricipalmente como usar classes e ids no html, também pude ver quais as minhas dificuldades em manipular os elementos com o css.
