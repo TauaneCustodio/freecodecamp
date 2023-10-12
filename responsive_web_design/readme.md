@@ -30,7 +30,7 @@
 >In this course, you'll learn HTML forms by building a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page.
 - entendi melhor como funciona as classes no html, também o id, name, for e value
 
-### 🔎[Survey Form](05_survay_form)
+### 🔎[Survey Form](05_survey_form)
 >This is one of the required projects to earn your certification.
 >For this project, you will build a survey form to collect data from your users.
 - coloquei em prática os conhecimentos ensinados nos 4 projetos anteriores, me ajudou a fixar melhor as propriedades css e pricipalmente como usar classes e ids no html, também pude ver quais as minhas dificuldades em manipular os elementos com o css.
