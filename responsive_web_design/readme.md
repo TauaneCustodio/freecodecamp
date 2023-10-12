@@ -13,24 +13,24 @@
 - entendi exatamente o que cada elemento da estrutura padrão do HTML faz
 - foi apresentado um pouco sobre formulários
 
-### ☕Cafe menu
+### ☕[Cafe menu](02_cafe_menu)
 > CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
 > In this course, you'll learn CSS by designing a menu page for a cafe webpage.
 - aprendi o básico do css e formas diferentes de fazer a mesma coisa e porque algumas são melhores que outras
 
-### 🖍️Colored markers
+### 🖍️[Colored markers](03_colored_markers)
 > Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers.
 > In this course, you'll build a set of colored markers. You'll learn different ways to set color values and how to pair colors with each other.
 - construir 3 marcadores usando HTML e CSS
 - aprendi sobre as diferentes formas de usar as cores (rgb/rgba, hsl/hsla, hex)
 - aprendi várias formas de usar a tag <div>
 
-### 📄Registration form
+### 📄[Registration form](04_registration_form)
 >You can use HTML forms to collect information from people who visit your webpage.
 >In this course, you'll learn HTML forms by building a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page.
 - entendi melhor como funciona as classes no html, também o id, name, for e value
 
-### 🔎Survey Form
+### 🔎[Survey Form](05_survay_form)
 >This is one of the required projects to earn your certification.
 >For this project, you will build a survey form to collect data from your users.
 - coloquei em prática os conhecimentos ensinados nos 4 projetos anteriores, me ajudou a fixar melhor as propriedades css e pricipalmente como usar classes e ids no html, também pude ver quais as minhas dificuldades em manipular os elementos com o css.
