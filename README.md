@@ -1,7 +1,7 @@
 # freecodecamp
 Projetos construídos pelo site Free Code Camp
 
-## 🎨 [Responsive web design - projects](responsive_web_app/readme.md)
+## 🎨 [Responsive web design - projects](responsive_web_design/readme.md)
 1. 🐈‍⬛ [Photo cat app](01_photo_cat_app)
 2. ☕ [Cafe menu](02_cafe_menu)
 3. 🖍️ [Colored markers](03_colored_markers)
