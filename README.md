@@ -1,5 +1,7 @@
 # freecodecamp
-Projetos construídos pelo site Free Code Camp
+Projetos construídos pelo site Free Code Camp  
+
+![](./img/freecodecamp.png)
 
 ## 🧠O que aprendi:
 1. É apresentado todas as formas de usar as cores e todas são usadas ao decorrer dos projetos e isso tem me ajudado a fixar todas as posibilidades em relação as cores.
