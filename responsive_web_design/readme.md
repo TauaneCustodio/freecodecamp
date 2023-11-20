@@ -109,7 +109,7 @@ with Flexbox, and a magazine article layout with CSS Grid.
 - coloquei em prática conceitos de nav.
 <br>
 
-### 🌃 [City skyline](15_city_stkyline)
+### 🌃 [City skyline](15_city_skyline)
 >CSS variables help you organize your styles and reuse them.
 >In this course, you'll build a city skyline. You'll learn how to configure CSS variables so you can reuse them whenever you want.
 - aprendi como usar variaveis para economizar tempo depois para mudar várias cores iguais.
@@ -122,7 +122,7 @@ with Flexbox, and a magazine article layout with CSS Grid.
 - peguei alguns conceitos de grid.
 <br>
 
-### 🛒 [Landing page](17_landing_page)
+### 🛒 [Landing page](17_product_landing_page)
 >This is one of the required projects to earn your certification.
 >For this project, you will build a product landing page to market a product of your choice.
 - coloquei em prática todos os conceitos aprendidos antes e usei media queries.
