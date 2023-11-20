@@ -11,6 +11,13 @@ with Flexbox, and a magazine article layout with CSS Grid.
 ```
 <br>  
 
+## 🧠O que aprendi:
+1. É apresentado todas as formas de usar as cores e todas são usadas ao decorrer dos projetos e isso tem me ajudado a fixar todas as posibilidades em relação as cores.
+1. Há exemplos de diferentes formas de fazer a mesma coisa e explicações sobre porque uma é mais adequada que a outra, isso me ajudou muito a entender outros códigos que vejo e a construir códigos mais limpos.
+2. Tudo tem de ser digitado, não há a sugestões ou atalhos como no visual studio code, isso está me fazendo internalizar muito mais as tags, propriedades, valores, etc.
+
+<br>  
+
 ### 🐈‍⬛ [Photo cat app](01_photo_cat_app)
 > HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage.
 > In this course, you'll learn the most common HTML tags by building your own cat photo app.
@@ -81,48 +88,59 @@ with Flexbox, and a magazine article layout with CSS Grid.
 ### ⚖️ [Balance sheet](11_balance_sheet)
 >You can use CSS pseudo selectors to change specific HTML elements.
 >In this course, you'll build a balance sheet using pseudo selectors. You'll learn how to change the style of an element when you hover over it with your mouse, and trigger other events on your webpage.
+- aprendi a manipular elementos com seletores.
 <br>
 
 ### 🐈‍⬛ [Cat painting](12_cat_painting)
 >Mastering CSS positioning is essential for creating visually appealing and responsive web layouts
 >In this course, you will build a cat painting. You'll learn about how to work with absolute positioning, the z-index property, and the transform property.
+- aprendi a usar posições diferentes para criar desenhos.
 <br>
 
 ### 🎹 [Piano](13_piano)
 >Responsive Design tells your webpage how it should look on different-sized screens.
 >In this course, you'll use CSS and Responsive Design to code a piano. You'll also learn more about media queries and pseudo selectors.
+- aprendi a usar medias queries.
 <br>
 
 ### 📑 [Technical documentation page](14_technical_documentation_page)
 >This is one of the required projects to earn your certification.
 >For this project, you will build a technical documentation page to serve as instruction or reference for a topic.
+- coloquei em prática conceitos de nav.
 <br>
 
 ### 🌃 [City skyline](15_city_stkyline)
 >CSS variables help you organize your styles and reuse them.
 >In this course, you'll build a city skyline. You'll learn how to configure CSS variables so you can reuse them whenever you want.
+- aprendi como usar variaveis para economizar tempo depois para mudar várias cores iguais.
+- aprendi formas diferentes de usar gradients.
 <br>
 
 ### 📰 [Magazine](16_magazine)
 >CSS Grid gives you control over the rows and columns of your webpage design.
 >In this course, you'll build a magazine article. You'll learn how to use CSS Grid, including concepts like grid rows and grid columns.
+- peguei alguns conceitos de grid.
 <br>
 
 ### 🛒 [Landing page](17_landing_page)
 >This is one of the required projects to earn your certification.
 >For this project, you will build a product landing page to market a product of your choice.
+- coloquei em prática todos os conceitos aprendidos antes e usei media queries.
 <br>
 
 ### ☸️ [Ferris wheel](18_ferris_wheel)
 >You can use CSS animation to draw attention to specific sections of your webpage and make it more engaging.
 >In this course, you'll build a Ferris wheel. You'll learn how to use CSS to animate elements, transform them, and adjust their speed.
+- aprendi alguns conceitos de animação.
 <br>
 
 ### 🐧 [Penguin](19_penguin)
 >You can transform HTML elements to create appealing designs that draw your reader's eye. You can use transforms to rotate elements, scale them, and more.
 >In this course, you'll build a penguin. You'll use CSS transforms to position and resize the parts of your penguin, create a background, and animate your work.
+- aprendi mais alguns conceitos de animação.
 <br>
 
 ### 👤 [Portfolio webpage](20_portfolio_webpage)
 >This is one of the required projects to earn your certification.
 >For this project, you will build your own personal portifolio page.
+- usei todos os conceitos aprendidos anteriormente.
