@@ -1,32 +1,5 @@
-# freecodecamp
-Projetos construídos pelo site Free Code Camp  
-
+# 🎨 Responsive web design
 ![](./img/freecodecamp.png)
-
-## 🎨 [Responsive web design - projects](responsive_web_design/readme.md)
-1. 🐈‍⬛ [Photo cat app](responsive_web_design/01_photo_cat_app)
-2. ☕ [Cafe menu](responsive_web_design/02_cafe_menu)
-3. 🖍️ [Colored markers](responsive_web_design/03_colored_markers)
-4. 📄 [Registration form](responsive_web_design/04_registration_form)
-5. 🔎 [Survey Form](responsive_web_design/05_survey_form)
-6. 🖼️ [Rothko Style](responsive_web_design/06_rothko_style)
-7. 📱 [Photo gallery](responsive_web_design/07_photo_gallery)
-8. 🍽️ [Nutrition label](responsive_web_design/08_nutrition_label)
-9. 🧑🏻‍🦯 [Accessibility quiz](responsive_web_design/09_accessibility_quiz)
-10. 🕯️ [Tribute page](responsive_web_design/10_tribute_page)
-11. ⚖️ [Balance sheet](responsive_web_design/11_balance_sheet)
-12. 🐈‍⬛ [Cat painting](responsive_web_design/12_cat_painting)
-13. 🎹 [Piano](responsive_web_design/13_piano)
-14. 📑 [Technical documentation page](responsive_web_design/14_technical_documentation_page)
-15. 🌃 [City skyline](responsive_web_design/15_city_skyline)
-16. 📰 [Magazine](responsive_web_design/16_magazine)
-17. 🛒 [Landing page](responsive_web_design/17_product_landing_page)
-18. ☸️ [Ferris wheel](responsive_web_design/18_ferris_wheel)
-19. 🐧 [Penguin](responsive_web_design/19_penguin)
-20. 👤 [Portfolio webpage](responsive_web_design/20_portfolio_webpage)
-
-
-## 🎨Responsive web design
 ```
 In this Responsive Web Design Certification, you'll learn the languages that developers use to build webpages:
 HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
@@ -38,6 +11,30 @@ Finally, you'll learn how to make webpages that respond to different screen size
 with Flexbox, and a magazine article layout with CSS Grid.
 ```
 <br>  
+
+1. 🐈‍⬛ [Photo cat app](01_photo_cat_app)
+2. ☕ [Cafe menu](02_cafe_menu)
+3. 🖍️ [Colored markers](03_colored_markers)
+4. 📄 [Registration form](04_registration_form)
+5. 🔎 [Survey Form](05_survey_form)
+6. 🖼️ [Rothko Style](06_rothko_style)
+7. 📱 [Photo gallery](07_photo_gallery)
+8. 🍽️ [Nutrition label](08_nutrition_label)
+9. 🧑🏻‍🦯 [Accessibility quiz](09_accessibility_quiz)
+10. 🕯️ [Tribute page](10_tribute_page)
+11. ⚖️ [Balance sheet](11_balance_sheet)
+12. 🐈‍⬛ [Cat painting](12_cat_painting)
+13. 🎹 [Piano](13_piano)
+14. 📑 [Technical documentation page](14_technical_documentation_page)
+15. 🌃 [City skyline](15_city_skyline)
+16. 📰 [Magazine](16_magazine)
+17. 🛒 [Landing page](17_product_landing_page)
+18. ☸️ [Ferris wheel](18_ferris_wheel)
+19. 🐧 [Penguin](19_penguin)
+20. 👤 [Portfolio webpage](20_portfolio_webpage)
+
+
+## About
 
 ## 🧠O que aprendi:
 1. É apresentado todas as formas de usar as cores e todas são usadas ao decorrer dos projetos e isso tem me ajudado a fixar todas as posibilidades em relação as cores.
